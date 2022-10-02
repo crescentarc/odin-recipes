@@ -7,7 +7,7 @@ learned the following basics, all of which I hope to make use of
 throughout this project:
 
 * Setting up the HTML boilerplate
-* Using elements such as <strong>, <p> and <em> to display text
-* Using elements such as <ul>, <ol> and <li> to create lists
-* Using elements such as <a> and <img> to display images and links
+* Using elements such as strong, p and em to display text
+* Using elements such as ul, ol and li to create lists
+* Using elements such as a and img to display images and links
 * Efficiently commiting changes through Git
